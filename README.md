@@ -48,5 +48,10 @@ The model predicts stock prices and visualizes:
 - Original Prices
 - Training Prediction
 - Testing Prediction
+## 📸 Project Output
+### Output 1
+![Output 1](screenshots/output1.png)
+### Output 2
+![Output 2](screenshots/output2.png)
 ## 👩‍💻 Author
 Karnatakam Sakshi
